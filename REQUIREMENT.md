@@ -1,0 +1,27 @@
+# Tesco Online Grocery Search
+
+## Requirement Description
+User should be able to search for groceries
+
+### Business Justification
+- Users were complaining that there was no search feature on the website
+- It's a bad user experience to manually navigate to each grocery category to add products to the cart
+- Providing a more efficient user experience will:
+  - Shorten users interaction on website
+  - Increase conversion rate
+
+### Acceptance Criteria
+
+AC1: User should be able to enter text from the main groceries page, click a search button, and see a results page
+
+AC2: The results page should contain results relevant to the users search
+
+AC3: The results page should be quick to display results
+
+### Notes
+
+- How will we test this?
+- How will we ensure this continues to work in the future?
+- There are over 10,000 groceries sold by Tesco, how will we ensure all searches are successful?
+- How do we make sure the results are quick to display?
+- How do we make sure all users have a good experience with the search feature?

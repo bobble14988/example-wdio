@@ -2,7 +2,7 @@
 
 This project is just to demo WDIO and front-end test automation.
 
-System under test: https://automationintesting.online/
+System under test: https://tesco.com
 
 Tooling used:
  - NodeJS/NPM: https://nodejs.org/en/
