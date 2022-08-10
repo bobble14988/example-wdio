@@ -14,14 +14,18 @@ User should be able to search for groceries
 
 AC1: User should be able to enter text from the main groceries page, click a search button, and see a results page
 
-AC2: The results page should contain results relevant to the users search
+AC2: The results page should contain results relevant to the user's search
 
 AC3: The results page should be quick to display results
 
-### Notes
+### Quality Assurance
 
-- How will we test this?
-- How will we ensure this continues to work in the future?
+- How will we test each AC?
+- How will we ensure each AC continues to work in the future?
 - There are over 10,000 groceries sold by Tesco, how will we ensure all searches are successful?
 - How do we make sure the results are quick to display?
 - How do we make sure all users have a good experience with the search feature?
+- When in the SDLC will we test these ACs?
+- In which environment should we test these ACs?
+- Are there any data considerations?
+- How do we inform stakeholders of test results?
